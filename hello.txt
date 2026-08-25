@@ -1,2 +1,2 @@
-hello git
+HELLO GIT
 I am learning version control.
