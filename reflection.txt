@@ -1,0 +1,4 @@
+I have learned that git is not a coding tool that requires you to know programming languages to use,
+but it is a version control software that literarly tracks changes in text through time. it helps us 
+to easily backup to older versions easily, and understand how the system came to were it is know by 
+saving snapshots of the project every time we commit
